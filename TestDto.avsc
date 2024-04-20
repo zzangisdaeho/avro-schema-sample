@@ -3,7 +3,7 @@
   "type": "record",
   "name": "TestDto",
   "fields": [
-    {"name": "name", "type": "string"},
+    {"name": "nanana", "type": "string"},
     {"name": "age",  "type": "int"}
   ]
 }
