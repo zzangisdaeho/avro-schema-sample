@@ -1,0 +1,9 @@
+{
+  "namespace": "org.example.avrokafakasample.kafka",
+  "type": "record",
+  "name": "TestDto2",
+  "fields": [
+    {"name": "name2", "type": "string"},
+    {"name": "age2",  "type": "int"}
+  ]
+}
